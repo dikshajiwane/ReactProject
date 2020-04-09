@@ -1,8 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e66c1b54-ab2d-47fd-a603-843946221028" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Contact/AddContacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Contact/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Contact/Contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Contact/EditContact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Layout/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Layout/TextInputGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Olddata/Aboutus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Olddata/OldContact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Olddata/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Olddata/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Olddata/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Olddata/jsRefresher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Pages/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Pages/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Tests/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Context.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZyaxBW0pHbvrP9AP7wty709ky4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\djiwane\reactcourse\src\Components" />
+      <recent name="C:\Users\djiwane\reactcourse\src\Components\Contact" />
+      <recent name="C:\Users\djiwane\reactcourse\src\Components\Olddata" />
+      <recent name="C:\Users\djiwane\reactcourse\src\Components\Layout" />
+      <recent name="C:\Users\djiwane\reactcourse\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\djiwane\reactcourse\src\Components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66c1b54-ab2d-47fd-a603-843946221028" name="Default Changelist" comment="" />
+      <created>1585814031867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585814031867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="194" key="FileChooserDialogImpl" timestamp="1586260073206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="775" y="194" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586260073206" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586256312748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586256312748" />
+    <state x="639" y="163" width="711" height="546" key="find.popup" timestamp="1586452018796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="639" y="163" width="711" height="546" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586452018796" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586332626770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586332626770" />
   </component>
 </project>
