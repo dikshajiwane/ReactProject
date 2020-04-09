@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dikshajiwane.github.io/contactmanager/static/css/main.36497136.chunk.css",
+    "main.js": "/dikshajiwane.github.io/contactmanager/static/js/main.ab92090a.chunk.js",
+    "main.js.map": "/dikshajiwane.github.io/contactmanager/static/js/main.ab92090a.chunk.js.map",
+    "runtime-main.js": "/dikshajiwane.github.io/contactmanager/static/js/runtime-main.d2875f23.js",
+    "runtime-main.js.map": "/dikshajiwane.github.io/contactmanager/static/js/runtime-main.d2875f23.js.map",
+    "static/css/2.0e3bee50.chunk.css": "/dikshajiwane.github.io/contactmanager/static/css/2.0e3bee50.chunk.css",
+    "static/js/2.043f57b5.chunk.js": "/dikshajiwane.github.io/contactmanager/static/js/2.043f57b5.chunk.js",
+    "static/js/2.043f57b5.chunk.js.map": "/dikshajiwane.github.io/contactmanager/static/js/2.043f57b5.chunk.js.map",
+    "index.html": "/dikshajiwane.github.io/contactmanager/index.html",
+    "precache-manifest.0feda258a77ec2b88b70babc7897861c.js": "/dikshajiwane.github.io/contactmanager/precache-manifest.0feda258a77ec2b88b70babc7897861c.js",
+    "service-worker.js": "/dikshajiwane.github.io/contactmanager/service-worker.js",
+    "static/css/2.0e3bee50.chunk.css.map": "/dikshajiwane.github.io/contactmanager/static/css/2.0e3bee50.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/dikshajiwane.github.io/contactmanager/static/css/main.36497136.chunk.css.map",
+    "static/js/2.043f57b5.chunk.js.LICENSE.txt": "/dikshajiwane.github.io/contactmanager/static/js/2.043f57b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2875f23.js",
+    "static/css/2.0e3bee50.chunk.css",
+    "static/js/2.043f57b5.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.ab92090a.chunk.js"
+  ]
+}
